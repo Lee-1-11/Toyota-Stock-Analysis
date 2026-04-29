@@ -18,7 +18,7 @@ Key Findings
 - 2025 saw the biggest single day price swing ever at $14.48
 
 Dashboard
-![Toyota Stock Dashboard](dashboard screenshot.png)
+![Toyota Stock Dashboard](dashboard_screenshot.png)
 
 Files
 - `toyota_analysis.sql` — all SQL queries used in the analysis
